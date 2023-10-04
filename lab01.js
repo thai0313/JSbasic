@@ -49,6 +49,7 @@
 // }
 // hocSinh.soDienThoai = 9128378123
 // hocSinh.diachi = 'trai dat'
+// hocSinh['hoten']='thái ákdjadk'
 // console.log(hocSinh)
 // let dienthoai={
 //     ten: 'iphone14',
